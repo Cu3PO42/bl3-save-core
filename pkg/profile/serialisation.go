@@ -3,8 +3,8 @@ package profile
 import (
 	"io"
 
-	"github.com/cfi2017/bl3-save-core/pkg/pb"
-	shared2 "github.com/cfi2017/bl3-save-core/pkg/shared"
+	"github.com/Cu3PO42/bl3-save-core/pkg/pb"
+	shared2 "github.com/Cu3PO42/bl3-save-core/pkg/shared"
 	"google.golang.org/protobuf/proto"
 )
 

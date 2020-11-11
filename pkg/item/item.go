@@ -8,9 +8,9 @@ import (
 	"log"
 	"strings"
 
-	"github.com/cfi2017/bl3-save-core/internal/item"
-	"github.com/cfi2017/bl3-save-core/pkg/assets"
-	"github.com/cfi2017/bl3-save-core/pkg/pb"
+	"github.com/Cu3PO42/bl3-save-core/internal/item"
+	"github.com/Cu3PO42/bl3-save-core/pkg/assets"
+	"github.com/Cu3PO42/bl3-save-core/pkg/pb"
 )
 
 type Item struct {

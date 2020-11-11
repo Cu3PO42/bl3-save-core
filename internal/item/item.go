@@ -3,7 +3,7 @@ package item
 import (
 	"fmt"
 
-	"github.com/cfi2017/bl3-save-core/pkg/assets"
+	"github.com/Cu3PO42/bl3-save-core/pkg/assets"
 )
 
 func BogoEncrypt(seed int32, data []byte) []byte {

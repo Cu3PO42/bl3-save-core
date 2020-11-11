@@ -1,4 +1,4 @@
-module github.com/cfi2017/bl3-save-core
+module github.com/Cu3PO42/bl3-save-core
 
 go 1.14
 
